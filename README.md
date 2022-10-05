@@ -1,6 +1,6 @@
 # CAFF-Teaching-Materials
 
-This repository includes teaching materials for high school and undergraduate teaching labs developed by the NSF Center for Adapting Flaws into Features. These labs largely focus on hands on spectroscopy-based activities that introduce students to topics relevant to physical chemistry and/or data analysis. A summary of current labs is included below. Relevant teaching materials and code for each lab are included in the lab folders. 
+This repository includes teaching materials for high school and undergraduate teaching labs developed by the NSF Center for Adapting Flaws into Features. These labs largely focus on hands on spectroscopy-based activities that introduce students to topics relevant to physical chemistry and advanced data analysis techniques. A summary of current labs is included below. Relevant teaching materials and code for each lab are included in the lab folders. 
 
 ## Lab 1: Introduction to Spectroscopy and Data Science – How many dyes are in a collection of colorful samples? 
 
